@@ -1,2 +1,2 @@
-# Taller-de-dise-o-y-programaci-n
+# Taller-de-diseno-y-programacion
  Abstracciones y polimorfismo  Tania Nickoll Forero
